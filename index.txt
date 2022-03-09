@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Who the Heck is Megan Ives?</h1>
+<p>Well to start I guess she is a 19-year-old girl from Hutchinson, Minnesota. She is majoring in graphic design and has no clue what path to take with it yet. Her life right now consists mainly of work, school, homework, and when she has time hanging out with friends. She has also gone on many vacations around the United States and three other countries so far. </p>
+<h2> My Favorite Song Right Now </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FALgRc2w7hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
+<h2>Hobbies Include:</h2>
+<ul>
+<li>Longboarding</li>
+<li>Hiking</li>
+<li>Kayaking</li>
+<li>Painting and other forms of art</li>
+<li>Travelling</li>
+<li>Crystal Collecting</li>
+<li>Thrift Shopping</li>
+</ul>
+<div class="warning">
+<p>WARNING!</p>
+    <img src="https://th.bing.com/th/id/OIP.Pmy_3ROxaa1iCSgjyAHlLwHaHa?pid=ImgDet&rs=1"
+         alt="An intimidating leopard.">
+    <p>Beware of Being Sad Due to the Talk of Warm Weather</p>
+</div>
+
+
+<h2> Where is this beach? </h2>
+<form>
+  <fieldset>
+    <legend>Take a Guess!</legend>
+
+    <input type="radio" id="Florida" name="monster">
+    <label for="Florida">Florida</label><br/>
+
+    <input type="radio" id="Bahamas" name="monster">
+    <label for="Bahamas">Bahamas</label><br/>
+
+    <input type="radio" id="Virgin Islands" name="monster">
+    <label for="Virgin Islands">Virgin Islands</label>
+  </fieldset>
+</form>
+
+<img
+src= https://i.pinimg.com/originals/a5/57/3a/a5573a2028c5f12fe3144319555dcf70.jpg > 
+
+<h2> The Answer Is: </h2>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-77.39904105663301%2C25.070182155281856%2C-77.38809764385225%2C25.078986406936504&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/25.07458/-77.39357">View Larger Map</a></small>
+</iframe>
+<h2>  </h2>
+<label for="fuel">How close I am to saying goodbye to Brookings and just travelling the world:</label>
+<h2>  </h2>
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="95">
+    at 50/100
+</meter>
+
+
+<button class="favorite styled"
+        type="button">
+    Press to Dropout
+</button>
+<h2>  </h2>
+<audio> https://www.youtube.com/watch?v=_IAoihZbVys </audio>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Dropout or Get That Degree</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Seeing the world|</td>
+            <td>|Getting a career I will enjoy</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2> In Case I Dropout </h2>
+<p>You can reach Megan at:</p>
+
+<ul>
+  <li><a href="https://example.com">Website</a></li>
+  <li><a href="mailto:m.bluth@example.com">Email</a></li>
+  <li><a href="tel:+123456789">Phone</a></li>
+</ul>
+<h2>  </h2>
+    <figcaption>How I feel about juggling school and work:</figcaption>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_IAoihZbVys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
+
+
+
